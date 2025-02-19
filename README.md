@@ -1,2 +1,2 @@
 # MallocInAssembly
-Dinamic allocation in assembly languagem using brk management
+Dinamic allocation in assembly machine language using brk management
